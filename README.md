@@ -14,6 +14,7 @@ $ git init
 
 $ git config --global user.name "Your Name Comes Here"
 $ git config --global user.email you@yourdomain.example.com
+$ git config
 
 ```
 
@@ -32,6 +33,8 @@ $ git clone https://github.com/bahachammakhi/gitworkshop.git
 We will add our changes to git !
 
 ```bash
+$ git status
+
 $ git add .
 
 ```
